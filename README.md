@@ -61,7 +61,7 @@ If any changes were made, make sure to click the **Update** button to save chang
 5. Click **Ok** on the Options window and close
 
 ## Running the App
-1. Clone the project from the following GitHub [link](https://github.com/guardsense).
+1. Clone the project from the following GitHub [link](https://github.com/guardsense/EG_Source).
 2. Open **Core.sln** inside the Core folder from the root directory. 
 3. Visual Studio will automatically detect the Energy Performance startup project. Ensure that "EnergyPerformance" is selected at the top bar of Visual Studio, under the startup project dropdown, rather than "Core" or "EnergyPerformance.Tests.MSTest".
 4. Either click one of the two *Run* buttons at the top bar of Visual Studio, next to *Energy Performance (Package)* **OR** on the toolbar, under Debug, press either *Start Debugging* or *Start Without Debugging*.
