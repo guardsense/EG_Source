@@ -63,7 +63,7 @@ If any changes were made, make sure to click the **Update** button to save chang
 ## Running the App
 1. Clone the project from the following GitHub [link](https://github.com/guardsense).
 2. Open **Core.sln** inside the Core folder from the root directory. 
-3. Visual Studio will automatically detect the Energy Performance startup project
+3. Visual Studio will automatically detect the Energy Performance startup project. Ensure that "EnergyPerformance" is selected at the top bar of Visual Studio, under the startup project dropdown, rather than "Core" or "EnergyPerformance.Tests.MSTest".
 4. Either click one of the two *Run* buttons at the top bar of Visual Studio, next to *Energy Performance (Package)* **OR** on the toolbar, under Debug, press either *Start Debugging* or *Start Without Debugging*.
 5. Building the project for the first time may take a while, as Visual Studio will download and install all NuGet packages required for the application. On future runs, deployment will be much faster.
 6. After the project is built, the app will start. To exit the app, either press the *Stop* button in Visual Studio (if started with debugging) or right click on the new icon in the taskbar tray for EnergyGuard, and press **Exit**.
